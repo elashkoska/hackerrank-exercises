@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8×ÉÄ¨‹.
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(¢ŽîÊùÿÿÿÿ8”úÄ¨‹.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ñžÅ¨‹.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÅÍi8ñöÃ¨‹.
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8”úÄ¨‹.
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(êË¥ì8”úÄ¨‹.
